@@ -1,5 +1,3 @@
-## [Nombre del proyecto 1](https://link-del-proyecto-1.com)
-
 ## Andinet Marketplace (Full-Stack SaaS Platform) - https://www.hbconsulting-lu.com
 ### 📸 Project Preview
 ![Andinet Marketplace](https://res.cloudinary.com/dmujvqbqx/image/upload/v1776192535/andinet-1_dqyky0.png)
